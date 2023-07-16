@@ -5,8 +5,8 @@ This project generate a SOAP client for Calculator WS (http://www.dneonline.com/
 ## Build and generate SOAP client
     mvn clean install
 
-## Run Spring Boot
-    mvn
+## Run project
+    mvn spring-boot:run
 
 ## Test endpoint
 
